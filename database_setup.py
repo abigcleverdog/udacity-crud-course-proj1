@@ -1,5 +1,5 @@
 #!/usr/bin/env python2.7
-# Code for generating reports.
+# Code for initiating a database.
 # This is a project in the Full Stack Web Developer nanodegree program
 
 import os
